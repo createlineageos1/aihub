@@ -5,4 +5,4 @@ AIHub is an AI library that haves LLM/LM/RLM (Rule based Language Model) install
 We are testing our models in Google Colab platform with TPUs.
 
 # SDK
-We are using python3 to install models, writing the models.
+We are using python3 to installing the models, writing the models.
