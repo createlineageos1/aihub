@@ -8,5 +8,5 @@ We are testing our models in Google Colab platform with TPUs.
 We are using python3 to installing the models, writing the models.
 
 # ⚠️WARNING!⚠️
-Don't install big models if you have old GPU!⚠️
-This may cause BSoD or any other errors on your system.
+Don't install big models if you have old GPU!
+This may cause BSoD or any other errors on your system.⚠️
