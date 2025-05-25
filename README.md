@@ -6,3 +6,6 @@ We are testing our models in Google Colab platform with TPUs.
 
 # SDK
 We are using python3 to installing the models, writing the models.
+
+# ⚠️WARNING!⚠️
+Don't install big models if you have old GPU!⚠️
