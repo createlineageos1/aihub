@@ -9,3 +9,4 @@ We are using python3 to installing the models, writing the models.
 
 # ⚠️WARNING!⚠️
 Don't install big models if you have old GPU!⚠️
+This may cause BSoD or any other errors on your system.
